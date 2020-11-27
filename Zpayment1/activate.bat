@@ -1,0 +1,1 @@
+CALL %USERPROFILE%\miniconda3\CONDABIN\conda.BAT activate %USERPROFILE%\miniconda3\envs\pandas1

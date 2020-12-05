@@ -126,3 +126,4 @@ dmypy.json
 
 # 自定义：--I, --II, --III 等都忽略， 只收录没有敏感信息的GitHub保存版
 Zpayment--I*
+output/
